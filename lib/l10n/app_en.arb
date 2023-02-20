@@ -1,0 +1,99 @@
+{
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+
+
+  "appName": "Amazon Clone App",
+  "@appName": {
+    "description": "Amazon Clone App"
+  },
+
+  "loginText": "Create an account",
+  "@loginText": {
+    "description": "Login"
+  },
+
+  "passwordText": "Enter password",
+  "@passwordText": {
+    "description": "Enter password"
+  },
+
+  "emailText": "Enter email address",
+  "@emailText": {
+    "description": "Enter email address"
+  },
+
+  "firstNameText": "Enter First Name",
+  "@firstNameText": {
+    "description": "Enter First Name"
+  },
+
+  "lastNameText": "Enter Last Name",
+  "@lastNameText": {
+    "description": "Enter Last Name"
+  },
+
+  "firstName": "First name",
+  "@firstName": {
+    "description": "First name"
+  },
+
+  "lastName": "Last name",
+  "@lastName": {
+    "description": "Last name"
+  },
+
+  "email": "Email address",
+  "@email": {
+    "description": "Email address"
+  },
+
+  "password": "Password",
+  "@password": {
+    "description": "Password"
+  },
+
+  "register": "Register",
+  "@register": {
+    "description": "Register"
+  },
+
+  "noOrder": "Sorry you have no order history",
+  "@noOrder": {
+    "description": "Sorry you have no order history"
+  },
+
+  "productName": "Product name",
+  "@productName": {
+    "description": "Product name"
+  },
+
+  "productType": "Product type",
+  "@productType": {
+    "description": "Product type"
+  },
+
+  "productSize": "Product size",
+  "@productSize": {
+    "description": "Product size"
+  },
+
+  "productStock": "Product Stock number",
+  "@productStock": {
+    "description": "Product stock number"
+  },
+
+  "productPrice": "product Price",
+  "@productPrice": {
+    "description": "product Price"
+  },
+
+  "productImage": "Upload product Image",
+  "@productImage": {
+    "description": "Upload product Image"
+  }
+
+
+}
